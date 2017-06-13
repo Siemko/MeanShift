@@ -24,5 +24,11 @@ namespace MeanShiftAlg
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var meanShift = new MeanShift();
+            meanShift.Run();
+        }
     }
 }
