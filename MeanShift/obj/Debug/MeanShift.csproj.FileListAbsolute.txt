@@ -1,5 +1,25 @@
+<<<<<<< HEAD
 C:\Users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MainWindow.g.cs
 C:\Users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\App.g.cs
 C:\Users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift_MarkupCompile.cache
 C:\Users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift_MarkupCompile.lref
 C:\Users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.csprojResolveAssemblyReference.cache
+=======
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\bin\Debug\MeanShift.exe.config
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\bin\Debug\MeanShift.exe
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\bin\Debug\MeanShift.pdb
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.csprojResolveAssemblyReference.cache
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MainWindow.g.cs
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\App.g.cs
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift_MarkupCompile.cache
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift_MarkupCompile.lref
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MainWindow.baml
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.g.resources
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.Properties.Resources.resources
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.csproj.GenerateResource.Cache
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.exe
+c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.pdb
+D:\MeanShift\MeanShift\bin\Debug\MeanShift.exe.config
+D:\MeanShift\MeanShift\obj\Debug\MeanShift.exe
+D:\MeanShift\MeanShift\obj\Debug\MeanShift.pdb
+>>>>>>> f96e0bffb99d3694767a263d4b10ecc653f9fadd
