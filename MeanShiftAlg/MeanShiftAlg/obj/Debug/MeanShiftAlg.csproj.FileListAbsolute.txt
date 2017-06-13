@@ -1,0 +1,14 @@
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.exe.config
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csprojResolveAssemblyReference.cache
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MainWindow.g.cs
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\App.g.cs
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg_MarkupCompile.cache
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg_MarkupCompile.lref
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.exe
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.pdb
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MainWindow.baml
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.g.resources
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.Properties.Resources.resources
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csproj.GenerateResource.Cache
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.exe
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.pdb

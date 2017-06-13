@@ -5,8 +5,82 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MeanShiftAlg"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="500" MinHeight="500" MinWidth="800" Width="900">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="0.5*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button Grid.Row="0" Content="Wgraj obraz" VerticalAlignment="Center" Width="100" Height="50" Click="LoadImageButton_Click"/>
+
+            <Grid Grid.Row="1">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label Grid.Row="0" Content="Parametr H:" Margin="10,0,0,0"/>
+                    <TextBox x:Name="ParameterHBox" Grid.Row="1" Text="0" Width="100" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Top"/>
+                </Grid>
+             
+                <Grid Grid.Row="1">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <RadioButton x:Name="FullImageRadio" IsChecked="true" Content="Cały obraz" Grid.Column="0" HorizontalAlignment="Left" Margin="15,0,0,0"/>
+                    <RadioButton x:Name="LocalWindowRadio" IsChecked="false" Content="Okno lokalne" Grid.Column="1" HorizontalAlignment="Left" Margin="15,0,0,0"/>
+                </Grid>
+
+                <Grid Grid.Row="2" x:Name="LocalWindowParameters" Visibility="Collapsed">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"></RowDefinition>
+                        <RowDefinition Height="30"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="0" Content="Wysokość okna:" Margin="10,0,0,0"/>
+                    <Label Grid.Row="0" Grid.Column="1" Content="Szerokość okna:" Margin="10,0,0,0"/>
+                    <TextBox x:Name="WindowHeightBox" Grid.Row="1" Grid.Column="0" Width="100" TextWrapping="Wrap" Text="0" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="WindowWidthBox" Grid.Row="1" Grid.Column="1" Width="100" TextWrapping="Wrap" Text="0" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </Grid>
+
+            <Button Grid.Row="2" Content="Segmentacja" VerticalAlignment="Center" Width="100" Height="29" Click="SegmentationButton_Click"/>
+
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Image x:Name="BaseImage" Margin="20,20,20,20" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Image x:Name="ModifiedImage" Margin="20,20,20,20" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
     </Grid>
 </Window>
