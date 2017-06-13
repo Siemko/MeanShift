@@ -25,5 +25,21 @@ namespace MeanShift.Helpers
 
             return result;
         }
+
+        public static T[] GetValues<T>(this T[] array, int from, int to)
+        {
+            if (!typeof(T).IsPrimitive)
+                throw new InvalidOperationException("Not supported for managed types.");
+
+            if (array == null)
+                throw new ArgumentNullException("array");
+
+            var result = new T[to-from];
+            var counter = 0;
+            for (var i = from; i < to; i++)
+                result[counter] = array[i];
+
+            return result;
+        }
     }
 }
