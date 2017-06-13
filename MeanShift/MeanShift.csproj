@@ -63,11 +63,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Helpers\ArrayExt.cs" />
-<<<<<<< HEAD
     <Compile Include="Helpers\MeanShiftHelper.cs" />
-=======
     <Compile Include="Helpers\RGB2LUV.cs" />
->>>>>>> f96e0bffb99d3694767a263d4b10ecc653f9fadd
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
