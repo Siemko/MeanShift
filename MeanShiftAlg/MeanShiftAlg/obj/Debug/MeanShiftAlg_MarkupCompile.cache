@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\
+=======
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\
+>>>>>>> 1a66f3868ed08818791dfa60fda3f5a222e57040
 MeanShiftAlg
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\App.xaml
 11151548125
 
 5-2017746502
 131569487696
+=======
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\App.xaml
+11151548125
+5-1890541139
+6138616275
+14-611921366
+>>>>>>> 1a66f3868ed08818791dfa60fda3f5a222e57040
 MainWindow.xaml;
 
 False

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.exe.config
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csprojResolveAssemblyReference.cache
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MainWindow.g.cs
@@ -12,3 +13,24 @@ D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.Properties.Resourc
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csproj.GenerateResource.Cache
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.exe
 D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.pdb
+=======
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.exe.config
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.exe
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\bin\Debug\MeanShiftAlg.pdb
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csprojResolveAssemblyReference.cache
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\Interop.MLApp.dll
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csproj.ResolveComReference.cache
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\App.g.cs
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg_Content.g.cs
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg_MarkupCompile.cache
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg_MarkupCompile.lref
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MainWindow.baml
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.g.resources
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.Properties.Resources.resources
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csproj.GenerateResource.Cache
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.exe
+C:\Users\dawid\Documents\Visual Studio 2017\Projects\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.pdb
+>>>>>>> 1a66f3868ed08818791dfa60fda3f5a222e57040
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\Interop.MLApp.dll
+D:\MeanShift\MeanShiftAlg\MeanShiftAlg\obj\Debug\MeanShiftAlg.csproj.ResolveComReference.cache

@@ -74,5 +74,11 @@ namespace MeanShiftAlg
                 var paramH = Convert.ToDouble(ParameterHBox.Text);
             }
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var meanShift = new MeanShift();
+            meanShift.Run();
+        }
     }
 }
