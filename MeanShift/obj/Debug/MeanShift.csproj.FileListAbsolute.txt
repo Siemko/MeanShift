@@ -12,3 +12,6 @@ c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Deb
 c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.csproj.GenerateResource.Cache
 c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.exe
 c:\users\dawid\documents\visual studio 2017\Projects\MeanShift\MeanShift\obj\Debug\MeanShift.pdb
+D:\MeanShift\MeanShift\bin\Debug\MeanShift.exe.config
+D:\MeanShift\MeanShift\obj\Debug\MeanShift.exe
+D:\MeanShift\MeanShift\obj\Debug\MeanShift.pdb
